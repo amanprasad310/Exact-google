@@ -190,6 +190,7 @@ section .footer .row.row2 ul:nth-child(2) li a
     cursor: pointer;
     background-color: rgba(5, 126, 5, 0.747);
 }
-#im1{
+#im5{
     border-radius: 50%;
+    width:30px;
 }
